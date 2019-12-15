@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
-
 // ------------------ Construir o tabuleiro -----------------
     /* O tabuleiro vai ser uma matrix 9x9
     Primeira linha vai ter os numero das colunas
